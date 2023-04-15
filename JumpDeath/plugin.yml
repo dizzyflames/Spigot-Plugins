@@ -1,0 +1,11 @@
+name: JumpDeath
+version: 1.0
+author: Dizzy
+main: me.dizzy.jumpdeath.Main
+description: A Spigot plugin that kills the player every time they jump
+
+commands:
+  start:
+   description: starts effect
+  stop:
+   description: stops effect

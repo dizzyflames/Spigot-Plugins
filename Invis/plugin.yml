@@ -1,0 +1,13 @@
+name: Invisibility
+version: 1.0
+author: Dizzy
+main: me.dizzy.invisibility.Main
+depend: [ProtocolLib]
+description: A Spigot plugin to turn the player invisible when they don't move
+
+commands:
+  add:
+   description: adds invisibility to player
+  remove: 
+   description: removes invisibility from player
+  

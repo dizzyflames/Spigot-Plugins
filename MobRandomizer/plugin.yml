@@ -1,0 +1,23 @@
+name: MobRandomizer
+version: 1.0
+author: Dizzy
+main: me.dizzy.mobrandomizer.Main
+description: A Spigot plugin to  spawn a random number of a random mob every x to y seconds
+
+commands:
+  addall:
+   description: adds all players to mob spawn effect.
+  removeall:
+   description: removes all players from mob spawn effect.
+  add:
+   description: adds player to mob spawn effect.
+  remove:
+   description: removes player from the mob spawn effect.
+  min:
+   description: changes the minimum time range in seconds.
+  max: 
+   description: changes the maximum time range in seconds.
+  mobmin:
+   description: changes the minimum number of mobs spawned.
+  mobmax: 
+   description: changes the maximum number of mobs spawned.

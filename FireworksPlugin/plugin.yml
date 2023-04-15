@@ -1,0 +1,20 @@
+name: FireworksPlugin
+version: 1.0
+author: Dizzy
+api-version: 1.15
+main: me.dizzy.fireworks.Main
+description: This plugin shoots fireworks based on a toggle
+
+commands:
+  move:
+   description: toggles fireworks on move
+  attack: 
+   description: toggles fireworks on attack
+  kill:
+   description: toggles fireworks on kill
+  blockbreak:
+   description: toggles fireworks on block break
+  toggleOff:
+   description: toggles all options off
+  toggleOn:
+   description: toggles all options on 

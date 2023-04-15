@@ -1,0 +1,11 @@
+name: FloorIsLavaPlugin
+version: 1.0
+api-version: 1.15
+author: Dizzy
+main: me.dizzy.floorislava.Main
+description: A Spigot plugin to turn the block a player was on into lava
+
+commands:
+  floorislava:
+   alias: [makelava]
+   description: this is the floor is lava command

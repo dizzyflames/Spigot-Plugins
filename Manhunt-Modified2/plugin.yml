@@ -1,0 +1,10 @@
+name: ManHunt
+prefix: ManHunt
+main: georgenotfound.manhunt.ManHunt
+description: Modified georgenotfound's plugin to work in nether, display Y coordinate, and track last known location.
+version: "1.0"
+api-version: "1.14"
+
+commands:
+  hunter:
+    description: Hunter commands.
